@@ -1,4 +1,4 @@
 # git-demo
 familiarizing with git &amp; github
 <br>
-Author - Miraj Prasain
+Author - Miraj Prasain (the goat)
